@@ -1,7 +1,7 @@
 {
   "name": "node",
   "version": "1.0.0",
-  "description": "",
+  "description": "smart-brain-api",
   "main": "script.js",
   "scripts": {
     "start": "node server.js"
@@ -19,6 +19,7 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "knex": "^0.19.1",
+    "node-gyp": "^5.0.3",
     "pg": "^7.12.1"
   }
 }
